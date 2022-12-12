@@ -1,0 +1,98 @@
+Question 1
+
+1) $_GET("name");
+2) $_POST("name");
+3) print "text";
+
+Question 2
+
+1) rand() or rand(1,10)  ;
+2) <?php ---------------?>
+3) $_POST("name");
+
+Question 3 
+
+1) $>create database mail;
+   $>use mail;
+   $>create table users(name varchar(12),email varchar(15),city varchar(10));
+
+2) $>drop database email;
+   $>use mail;
+   $>create users(ajay.email@gmail.com.mumbai);
+
+3) $>create database mail;
+   $>create users(arun.email@email.com.mumbai);;
+
+Question 4
+
+1) <?php $echo "enter username"......?>
+2) INSERT into users (name,address,email)
+   values('kirna','mumbai','five@five.com');
+3) <html> &it body>...<p>...<body>,<html>
+
+
+Question 5) 2036 is a Leap year
+
+Question 6)
+the second option 
+<?php 
+  for ($c=1;$a=1;$a<=3;$a++){
+   for($b=1;$b<=3;$b++){
+       if($c==$b)
+       (echo $c;)
+       else (echo "0";)
+       } $c++;echo"<br>";
+       }
+?>
+
+Question 7) /var/www/htdocs/php
+
+Question 8) /var/www/htdocs/php location
+    
+Question 9) echo $date(DATE_RFC822)
+
+Question 10) <!--include 'file.php' -->
+
+Q 11) $_POST('name');
+
+Q 12) html body form 
+
+Q 13) I am feeling lucky 
+
+Q 14) 3 raised to power 4 = 81 
+
+Q 15) for($j=1;$j>=$i;$j--);
+
+Q 16) <script type=javascript>.....</script>
+
+Q 17) malayalam
+
+Q 18) 
+$i+=$j;
+$j=$i-$j;
+$i-=$j;
+echo "Val
+
+Q 19) POST
+
+Q 20) 
+<?php 
+$s=array('Hyd','Kol','Agr','Guj','Sure','Mumbai');
+for($i=0;$i<6;$i++){
+echo "<br>";
+for($j=3;$j<3;$j++){
+echo $s[$i][$j]."";
+}
+}
+?>
+
+Q 21) Call for all readers 
+        Welcome to News Today
+
+Q 22) True 
+
+Q 23) True 
+
+Q 24) False 
+
+
